@@ -1,6 +1,8 @@
-# absa.projecthelp.co.za
+# projecthelp-absa
 
 Published build only. Source lives in the private repo `Jadederidder/absa-home`.
+
+Live at <https://jadederidder.github.io/projecthelp-absa/>
 
 - `index.html` — the Absa Home proposal, AES-GCM ciphertext behind an access code
 - `app/` — the member app (PWA), sample data only
